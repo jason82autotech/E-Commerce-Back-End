@@ -51,9 +51,7 @@ npm i
 ## Usage
 ```
 mysql -u root -p 
-```
-when prompted type in your MySQL password
-```
+enter password
 source db/schema.sql
 exit
 npm run seed
@@ -70,10 +68,12 @@ Testing of the code was completed in Insomnia
 
 You are required to submit BOTH of the following for review:
 
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met:
+* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met: https://drive.google.com/file/d/1Ue1TQ-c_dJ3xTl5KspORlgVREdk4DVhk/view
 
 
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project: https://github.com/jason82autotech/E-Commerce-Back-End
+
+* All work is my own with the help of the awesome tutors and classmates I have! I also used Google, You Tube, MDN Docs, W3 Schools, Chat GPT, Cody Ai, and any other resource I could find on the web.
 
 
 
